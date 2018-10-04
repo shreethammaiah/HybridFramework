@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50858" started-at="2018-10-04T04:52:27Z" finished-at="2018-10-04T04:53:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50858" started-at="2018-10-04T04:52:27Z" finished-at="2018-10-04T04:53:18Z">
+      <class name="scripts1.AddAddress">
+        <test-method status="PASS" signature="oppenapp()[pri:0, instance:scripts1.AddAddress@80503]" name="oppenapp" is-config="true" duration-ms="3640" started-at="2018-10-04T04:52:27Z" finished-at="2018-10-04T04:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oppenapp -->
+        <test-method status="PASS" signature="cases()[pri:0, instance:scripts1.AddAddress@80503]" name="cases" duration-ms="46800" started-at="2018-10-04T04:52:31Z" finished-at="2018-10-04T04:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cases -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:scripts1.AddAddress@80503]" name="closeapp" is-config="true" duration-ms="376" started-at="2018-10-04T04:53:18Z" finished-at="2018-10-04T04:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- scripts1.AddAddress -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
